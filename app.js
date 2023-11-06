@@ -9,7 +9,7 @@
 // tela
 
 
-let nomes =['Edson', 'Amanda', 'Rejane', 'Cintia']
+let nomes =['Armando', 'João', 'Claudomiro', 'Jetson']
 
 for(let i = 0; i < nomes.length; i++){
     document.write(`${nomes[i]} `)
